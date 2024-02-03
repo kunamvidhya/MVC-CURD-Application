@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mphasis\\Manage Data for School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|d:\\mphasis\\manage data for school\\manage data for school\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD2C6FD-64F1-4400-B10E-1E341EAC1186}|Manage Data for School\\Manage Data for School.csproj|solutionrelative:manage data for school\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Manage Data for School\\Global.asax.cs",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Global.asax.cs",
+              "RelativeToolTip": "Manage Data for School\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T12:39:39.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Manage Data for School\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Manage Data for School\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-03T07:41:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Manage Data for School\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Manage Data for School\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-03T07:36:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Manage Data for School\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Manage Data for School\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-03T07:36:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Manage Data for School\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Manage Data for School\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-03T07:35:51.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Manage Data for School\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Manage Data for School\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T07:35:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Manage Data for School\\Models\\Subject.cs",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Subject.cs",
+              "RelativeToolTip": "Manage Data for School\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T05:16:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Web.config",
+              "RelativeDocumentMoniker": "Manage Data for School\\Web.config",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Web.config",
+              "RelativeToolTip": "Manage Data for School\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-03T12:37:34.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "Manage Data for School\\Models\\Classes.cs",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Classes.cs",
+              "RelativeToolTip": "Manage Data for School\\Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T05:16:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Manage Data for School\\Models\\Student.cs",
+              "ToolTip": "D:\\mphasis\\Manage Data for School\\Manage Data for School\\Models\\Student.cs",
+              "RelativeToolTip": "Manage Data for School\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T05:14:47.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
